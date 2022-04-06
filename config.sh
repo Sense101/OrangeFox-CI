@@ -4,7 +4,7 @@
 export FOX_BRANCH="fox_9.0"
 export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_9.0"
 
-export DEVICE="beryllium" 
+export DEVICE="k61v1_64_bsp" 
 export OEM="xiaomi"
 export TARGET="recoveryimage"
 
